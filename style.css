@@ -1,0 +1,11 @@
+.seller, .header {
+    display: flex;
+}
+
+.h_col, .r_col{
+    width: 20%;
+}
+
+.arrow, .arrow_col {
+    width: 2%;
+}
